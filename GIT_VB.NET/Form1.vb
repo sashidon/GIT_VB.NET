@@ -5,5 +5,9 @@
         name = "1 st commite"
         Dim age As String
         age = 24
+        Dim chge As String
+        chge = "message change git diff"
+        MessageBox.Show(chge, "Testing", MessageBoxButtons.OK, MessageBoxIcon.Information)
+
     End Sub
 End Class
