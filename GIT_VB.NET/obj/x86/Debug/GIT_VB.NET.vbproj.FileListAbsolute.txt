@@ -1,0 +1,9 @@
+C:\Users\AneQa\Documents\Visual Studio 2010\Projects\GIT_VB.NET\GIT_VB.NET\bin\Debug\GIT_VB.NET.exe
+C:\Users\AneQa\Documents\Visual Studio 2010\Projects\GIT_VB.NET\GIT_VB.NET\bin\Debug\GIT_VB.NET.pdb
+C:\Users\AneQa\Documents\Visual Studio 2010\Projects\GIT_VB.NET\GIT_VB.NET\bin\Debug\GIT_VB.NET.xml
+C:\Users\AneQa\Documents\Visual Studio 2010\Projects\GIT_VB.NET\GIT_VB.NET\obj\x86\Debug\GIT_VB.NET.Form1.resources
+C:\Users\AneQa\Documents\Visual Studio 2010\Projects\GIT_VB.NET\GIT_VB.NET\obj\x86\Debug\GIT_VB.NET.Resources.resources
+C:\Users\AneQa\Documents\Visual Studio 2010\Projects\GIT_VB.NET\GIT_VB.NET\obj\x86\Debug\GIT_VB.NET.vbproj.GenerateResource.Cache
+C:\Users\AneQa\Documents\Visual Studio 2010\Projects\GIT_VB.NET\GIT_VB.NET\obj\x86\Debug\GIT_VB.NET.exe
+C:\Users\AneQa\Documents\Visual Studio 2010\Projects\GIT_VB.NET\GIT_VB.NET\obj\x86\Debug\GIT_VB.NET.xml
+C:\Users\AneQa\Documents\Visual Studio 2010\Projects\GIT_VB.NET\GIT_VB.NET\obj\x86\Debug\GIT_VB.NET.pdb
